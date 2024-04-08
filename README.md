@@ -1,4 +1,6 @@
-### Hi there 👋
+### PhD Student at HES-SO
+
+My researches focus on NLP in life sciences, mainly using deep learning models.
 
 <!--
 **jknafou/jknafou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
