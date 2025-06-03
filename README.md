@@ -21,7 +21,7 @@ I'm a postdoctoral researcher specializing in **large language models (LLMs)**, 
 
 ## 🛠️ Skills & Tools
 
-- **Languages:** Python, [N, RETEX, M+, F...]
+- **Languages:** Python, R, LaTeX
 - **Frameworks/Libraries:** Transformers, PyTorch, TensorFlow, HuggingFace, Ray Tune, FAIRSEQ, FastAPI
 - **Infrastructure:** Google Cloud, OpenStack, SLURM (HPC)
 - **Deployment:** Docker, FastAPI
