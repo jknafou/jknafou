@@ -39,7 +39,7 @@ I'm a postdoctoral researcher specializing in **large language models (LLMs)**, 
 
 ## 📝 Publications
 
-- **TransBERT: A Synthetically Translated Language Model** (EMNLP2025, submission)  
+- **TransBERT: A Framework for Synthetic Translation in Domain-Specific Language Modeling** (EMNLP2025, submission)  
 - Deep learning-based risk prediction for clinical trials ([Patterns, 2023](https://doi.org/10.1016/j.patter.2023.100689))
 - Ensemble of deep learning language models for COVID-19 literature ([Systematic Reviews, 2023](https://doi.org/10.1186/s13643-023-02247-9))
 - Multilingual RECIST classification in radiology ([Frontiers in Digital Health, 2023](https://doi.org/10.3389/fdgth.2023.1195017))
