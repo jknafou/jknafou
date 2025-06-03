@@ -43,7 +43,7 @@ I'm a postdoctoral researcher specializing in **large language models (LLMs)**, 
 - Deep learning-based risk prediction for clinical trials ([Patterns, 2023](https://doi.org/10.1016/j.patter.2023.100689))
 - Ensemble of deep learning language models for COVID-19 literature ([Systematic Reviews, 2023](https://doi.org/10.1186/s13643-023-02247-9))
 - Multilingual RECIST classification in radiology ([Frontiers in Digital Health, 2023](https://doi.org/10.3389/fdgth.2023.1195017))
-- [More on Google Scholar](https://scholar.google.fr/citations?user=G3hdRjoAAAAJ) | [DBLP](https://dblp.org/pid/245/4371.html)[2]
+- [More on Google Scholar](https://scholar.google.fr/citations?user=G3hdRjoAAAAJ) | [DBLP](https://dblp.org/pid/245/4371.html)
 
 ---
 
